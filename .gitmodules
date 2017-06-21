@@ -3,7 +3,6 @@
 	url = https://github.com/bogoquiz/my-app.git
 [submodule "react"]
 	path = react
-	url = c:/Users/xalexbaf/react/
-[submodule "redux-example"]
-	path = redux-example
-	url = C:/Users/xalexbaf/react/redux-example
+[submodule "react-redux"]
+	path = react-redux
+	url = https://github.com/bogoquiz/react-redux.git
