@@ -6,3 +6,6 @@
 [submodule "react-redux"]
 	path = react-redux
 	url = https://github.com/bogoquiz/react-redux.git
+[submodule "vote"]
+	path = vote
+	url = https://github.com/bogoquiz/vote.git
